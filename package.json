@@ -1,0 +1,28 @@
+{
+  "name": "queue",
+  "version": "0.0.0",
+  "description": "redis playground",
+  "main": "main.js",
+  "scripts": {
+    "ci-test": "./node_modules/.bin/mocha --reporter spec ./tests/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dateformat": "^1.0.12",
+    "express": "^4.12.3",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "http-proxy": "^1.12.0",
+    "mocha": "^2.3.4",
+    "multer": "^0.1.8",
+    "nodemailer": "^1.10.0",
+    "redis": "^0.12.1",
+    "supertest": "^1.1.0",
+    "twilio": "^2.5.2"
+  },
+  "dependencies": {
+    "http-proxy": "^1.12.0",
+    "mocha": "^2.3.4"
+  }
+}
