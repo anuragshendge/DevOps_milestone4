@@ -8,7 +8,7 @@
  
 ## Overview
 In the fourth and final special milestone, we demonstrate the entire end to end pipeline of the application and then demo the special component in the pipeline. We have used a simple node application for the purpose of this pipeline. All it does is serve simple HTML webpages on GET request(s). 
-The screencast for the milestone is linked at the [end of this page](https://github.com/anuragshendge/DevOps_milestone4#screencast). In the screencast, we present **_Build_**, **_Test and analysis_** and **_Deployment_** steps in the milestone. At last we demo the special component(s) namely a **_Doctor Monkey_** and **_Maintenance Monkey_**. 
+The screencast for the milestone is linked at the [end of this page](https://github.com/anuragshendge/DevOps_milestone4#screencast). In the screencast, we present [**Build**](https://github.com/aneeshkher/DevOpsMilestone1), [**Test and analysis**](https://github.com/anuragshendge/milestone2) and [**Deployment**](https://github.com/anuragshendge/DevOpsMilestone3) steps in the milestone. At last we demo the special component(s) namely a **_Doctor Monkey_** and **_Maintenance Monkey_**. 
 
 ## Milestone break up
 
